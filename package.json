@@ -1,0 +1,27 @@
+{
+  "name": "visorapp",
+  "version": "1.0.0",
+  "description": "Front End para visualizar equipos conectados al servidor (simulacion)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hdzjohan/visorapp.git"
+  },
+  "author": "Johan Josue Hernandez Avila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hdzjohan/visorapp/issues"
+  },
+  "homepage": "https://github.com/Hdzjohan/visorapp#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.0",
+    "bootstrap-vue": "^2.22.0",
+    "jquery": "^3.6.0",
+    "portal-vue": "^2.1.7",
+    "vue": "^3.2.37"
+  }
+}
